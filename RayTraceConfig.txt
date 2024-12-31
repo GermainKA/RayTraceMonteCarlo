@@ -1,0 +1,13 @@
+#ComputeWith(1 to selected )
+barycentriqueImg 0
+noShadowsImg 0
+fibonacciImg 0
+montecarloconstpdfImg 0
+montecarlodirectLiImg 1
+
+#Option (0 / 1)
+withsky 0
+bdrf 1
+#Sampling
+N 64
+
